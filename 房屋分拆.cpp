@@ -1,7 +1,7 @@
 #include<stdio.h>                 
 #include<stdlib.h>               
 #include<string.h>                
-#define TITLE "\n(ｏ^ω^)╭->*<<<房屋分拆>>>*<-╮(＾ω＾ｏ)    MarsperL \n"       /*标题文字*/ 
+#define TITLE "\n(ｏ^ω^)╭->*<<<房屋分拆>>>*<-╮(＾ω＾ｏ)    MarsperL\n"       /*标题文字*/ 
 #define MAX 10
 #define MENU_MAIN_COUNT 2          /*主菜单的选项个数*/  
 #define MENU_MANAGER_COUNT 2      /*执行分拆任务模块子函数个数*/ 
